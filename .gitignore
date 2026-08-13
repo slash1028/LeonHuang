@@ -1,3 +1,6 @@
 _site/
+.bundle/
+vendor/
+work-preview/
 push.sh
 .DS_Store

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Leon Huang monogram</title>
+  <desc id="desc">A geometric LH monogram used in place of a profile photograph.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173f68"/>
+      <stop offset="1" stop-color="#176b87"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="url(#g)"/>
+  <circle cx="200" cy="200" r="166" fill="none" stroke="#fff" stroke-opacity=".17" stroke-width="2"/>
+  <path d="M121 111v178h101v-34h-61V111z" fill="#fff"/>
+  <path d="M221 111v70h-45v34h45v74h40V111z" fill="#d5f3ef"/>
+</svg>
