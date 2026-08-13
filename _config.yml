@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zilong Huang"
-  avatar           : "/images/leon-huang.png"
-  bio              : "PhD Student @ PolyU EEE<br>Visiting Researcher @ Kyoto University"
+  avatar           : "/images/leon-huang.jpg"
+  bio              : "🇯🇵 KyotoU Visiting PhD<br>🇭🇰 HKPolyU EIE PhD<br>🇭🇰 HKPolyU EIE Master"
   location         : "Kyoto, Japan"
   employer         :
   pubmed           : 
-  # googlescholar  :  # Add the confirmed profile URL when ready.
+  googlescholar    : "https://scholar.google.com/citations?user=24_dNdcAAAAJ&hl=zh-TW"
   email            : "zi-long.huang@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

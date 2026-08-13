@@ -127,8 +127,28 @@ body {
   margin: 0 0 .45em;
 }
 
-.publication-list p {
+.publication-list {
+  margin-left: 1.25em;
+  padding-left: 0;
+}
+
+.publication-list li {
   margin: 0 0 1.25em;
+  padding-left: 0.15em;
+}
+
+.venue-tag {
+  display: inline-block;
+  margin-right: 0.42em;
+  padding: 0.08em 0.48em;
+  border-radius: 3px;
+  background: #2868c7;
+  color: #fff;
+  font-size: 0.84em;
+  font-weight: 700;
+  line-height: 1.5;
+  white-space: nowrap;
+  vertical-align: 0.08em;
 }
 
 .paper-note {

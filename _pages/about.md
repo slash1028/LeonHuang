@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-My name is **Zilong (Leon) Huang**. I am a Ph.D. student in the Department of Electrical and Electronic Engineering at **The Hong Kong Polytechnic University**, advised by [Prof. Kong Aik Lee](https://scholar.google.com/citations?hl=en&user=SZegiA4AAAAJ) and [Prof. Man-Wai Mak](https://scholar.google.com/citations?hl=en&user=Q2nNMycAAAAJ). I am currently a visiting researcher at **Kyoto University**, working with [Prof. Tatsuya Kawahara](https://scholar.google.com/citations?hl=en&user=o3AmlFYAAAAJ).
+My name is **Zilong (Leon) Huang**. I am a Ph.D. student in the Department of Electrical and Electronic Engineering at **The Hong Kong Polytechnic University**, advised by [Prof. Kong Aik Lee](https://scholar.google.com/citations?hl=en&user=SZegiA4AAAAJ) and [Prof. Man-Wai Mak](https://scholar.google.com/citations?hl=en&user=Q2nNMycAAAAJ). I am currently a visiting researcher at [**Kyoto University’s Speech and Audio Processing Laboratory**](https://sap.ist.i.kyoto-u.ac.jp/), working with [Prof. Tatsuya Kawahara](https://scholar.google.com/citations?hl=en&user=o3AmlFYAAAAJ).
 
 My research interests include:
 
@@ -26,35 +26,40 @@ My research interests include:
 
 <div class="news-lines">
 <p><strong>2026.08:</strong> 🎉 One paper has been accepted by the <strong>4th MRAC Workshop at ACM Multimedia 2026</strong>! [<a href="https://dl.acm.org/doi/pdf/10.1145/3840474.3840521">pdf</a>]</p>
+<p><strong>2026.07:</strong> 🎤 Tutorial speaker for <strong>Speech Large Language Models: Architectures, Efficient Adaptation, and Applications</strong> at ICME 2026.</p>
 <p><strong>2026.07:</strong> 🎉 Our team won the <strong>sixth place</strong> in <a href="https://zeroqiaoba.github.io/MER-Challenge/">MER2026 Challenge</a> EmoPrefer Track (ACM Multimedia 2026).</p>
 <p><strong>2026.07:</strong> 🎉 Three papers have been accepted by INTERSPEECH 2026! [<a href="https://arxiv.org/pdf/2607.17366">pdf</a>] [<a href="https://arxiv.org/pdf/2607.18336">pdf</a>]</p>
 <p><strong>2026.03:</strong> 🎉 Started a <strong>visiting research attachment</strong> at Kyoto University’s Speech and Audio Processing Laboratory.</p>
+<p><strong>2026.01:</strong> 🎉 One paper has been accepted by ICASSP 2026! [<a href="https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=4633">paper</a>]</p>
+<p><strong>2025.05:</strong> 🎉 Two papers have been accepted by INTERSPEECH 2025! [<a href="https://www.isca-archive.org/interspeech_2025/zuo25b_interspeech.pdf">pdf</a>] [<a href="https://www.isca-archive.org/interspeech_2025/gan25_interspeech.pdf">pdf</a>]</p>
+<p><strong>2025.01:</strong> 🎉 One paper has been accepted by ICASSP 2025! [<a href="https://doi.org/10.1109/ICASSP49660.2025.10889980">paper</a>]</p>
 <p><strong>2024.12:</strong> 🎉 Our team won <strong>2nd place</strong> in the NIST SRE 2024 Audio-Visual Track.</p>
+<p><strong>2024.05:</strong> 🎉 One paper has been accepted by INTERSPEECH 2024! [<a href="https://www.isca-archive.org/interspeech_2024/huang24b_interspeech.pdf">pdf</a>]</p>
 </div>
 
 <span class="anchor" id="publications"></span>
 
 # 📝 Publications
 
-<div class="publication-list">
-<p><strong>ACM MM 2026 Workshop</strong> <a href="https://doi.org/10.1145/3840474.3840521"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara.<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></p>
+<ul class="publication-list">
+<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://doi.org/10.1145/3840474.3840521"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara.<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></li>
 
-<p><strong>INTERSPEECH 2026</strong> <a href="https://arxiv.org/abs/2607.17366"><strong>EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, C.-X. Gan, Z. Jin, R. Zuo, and M.-W. Mak.<br><span class="paper-note">Models speaker-specific emotional inertia through supervised contrastive learning to improve emotion-shift understanding.</span></p>
+<li><span class="venue-tag">INTERSPEECH 2026</span> <a href="https://arxiv.org/abs/2607.17366"><strong>EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, C.-X. Gan, Z. Jin, R. Zuo, and M.-W. Mak.<br><span class="paper-note">Models speaker-specific emotional inertia through supervised contrastive learning to improve emotion-shift understanding.</span></li>
 
-<p><strong>INTERSPEECH 2026</strong> <a href="https://arxiv.org/abs/2607.18336"><strong>EmoEUS: Uncertainty Supervision for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, J. Li, Z. Li, and M.-W. Mak.<br><span class="paper-note">Supervises modality uncertainty and dynamically weights conflicting cues for robust multimodal emotion recognition.</span></p>
+<li><span class="venue-tag">INTERSPEECH 2026</span> <a href="https://arxiv.org/abs/2607.18336"><strong>EmoEUS: Uncertainty Supervision for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, J. Li, Z. Li, and M.-W. Mak.<br><span class="paper-note">Supervises modality uncertainty and dynamically weights conflicting cues for robust multimodal emotion recognition.</span></li>
 
-<p><strong>INTERSPEECH 2024</strong> <a href="https://www.isca-archive.org/interspeech_2024/huang24b_interspeech.html"><strong>MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, M.-W. Mak, and K.-A. Lee.<br><span class="paper-note">Fuses text, audio, and visual emotion features according to their modality-specific emotional richness.</span></p>
+<li><span class="venue-tag">ICASSP 2026</span> <a href="https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=4633"><strong>Distilling Attention Knowledge for Speaker Verification</strong></a>, Z. Jin, S. Liu, Z. Li, C.-X. Gan, <strong>Zilong Huang</strong>, M.-W. Mak, and K.-A. Lee.</li>
 
-<p><strong>ICASSP 2026</strong> <a href="https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=4633"><strong>Distilling Attention Knowledge for Speaker Verification</strong></a>, Z. Jin, S. Liu, Z. Li, C.-X. Gan, <strong>Zilong Huang</strong>, M.-W. Mak, and K.-A. Lee.</p>
+<li><span class="venue-tag">arXiv 2026</span> <a href="https://arxiv.org/abs/2604.25624"><strong>UNet-Based Fusion and Exponential Moving Average Adaptation for Noise-Robust Speaker Recognition</strong></a>, C.-X. Gan, P. Bell, M.-W. Mak, Z. Li, Z. Jin, <strong>Zilong Huang</strong>, and K.-A. Lee.</li>
 
-<p><strong>arXiv 2026</strong> <a href="https://arxiv.org/abs/2604.25624"><strong>UNet-Based Fusion and Exponential Moving Average Adaptation for Noise-Robust Speaker Recognition</strong></a>, C.-X. Gan, P. Bell, M.-W. Mak, Z. Li, Z. Jin, <strong>Zilong Huang</strong>, and K.-A. Lee.</p>
+<li><span class="venue-tag">INTERSPEECH 2025</span> <a href="https://www.isca-archive.org/interspeech_2025/zuo25b_interspeech.html"><strong>The Sub-3Sec Problem: From Text-Independent to Text-Dependent Corpus</strong></a>, R. Zuo, K.-A. Lee, <strong>Zilong Huang</strong>, and M.-W. Mak.</li>
 
-<p><strong>INTERSPEECH 2025</strong> <a href="https://www.isca-archive.org/interspeech_2025/zuo25b_interspeech.html"><strong>The Sub-3Sec Problem: From Text-Independent to Text-Dependent Corpus</strong></a>, R. Zuo, K.-A. Lee, <strong>Zilong Huang</strong>, and M.-W. Mak.</p>
+<li><span class="venue-tag">INTERSPEECH 2025</span> <a href="https://www.isca-archive.org/interspeech_2025/gan25_interspeech.html"><strong>IDIR: Identifying and Distilling Informative Relations for Speaker Verification</strong></a>, C.-X. Gan, Z. Li, Z. Jin, <strong>Zilong Huang</strong>, M.-W. Mak, and K.-A. Lee.</li>
 
-<p><strong>INTERSPEECH 2025</strong> <a href="https://www.isca-archive.org/interspeech_2025/gan25_interspeech.html"><strong>IDIR: Identifying and Distilling Informative Relations for Speaker Verification</strong></a>, C.-X. Gan, Z. Li, Z. Jin, <strong>Zilong Huang</strong>, M.-W. Mak, and K.-A. Lee.</p>
+<li><span class="venue-tag">ICASSP 2025</span> <a href="https://doi.org/10.1109/ICASSP49660.2025.10889980"><strong>Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification</strong></a>, Z. Jin, Y. Tu, Z. Li, <strong>Zilong Huang</strong>, C.-X. Gan, and M.-W. Mak.</li>
 
-<p><strong>ICASSP 2025</strong> <a href="https://doi.org/10.1109/ICASSP49660.2025.10889980"><strong>Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification</strong></a>, Z. Jin, Y. Tu, Z. Li, <strong>Zilong Huang</strong>, C.-X. Gan, and M.-W. Mak.</p>
-</div>
+<li><span class="venue-tag">INTERSPEECH 2024</span> <a href="https://www.isca-archive.org/interspeech_2024/huang24b_interspeech.html"><strong>MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, M.-W. Mak, and K.-A. Lee.<br><span class="paper-note">Fuses text, audio, and visual emotion features according to their modality-specific emotional richness.</span></li>
+</ul>
 
 <span class="anchor" id="experience"></span>
 
@@ -101,6 +106,7 @@ B.Eng. in Communication Engineering (Sino-British), First-Class Honours.
 
 # 🎓 Academic Activities
 
+- IEEE International Conference on Multimedia & Expo (ICME 2026), Thailand, July 2026 (**Tutorial Speaker**).
 - ICASSP 2025 Satellite Event, Suzhou, China, May 2025.
 - IEEE Spoken Language Technology Workshop (SLT 2024), Macao, China, December 2024.
 - PolyU Research Student Conference, Hong Kong SAR, China, August 2024.
