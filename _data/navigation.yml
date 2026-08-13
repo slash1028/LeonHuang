@@ -17,3 +17,9 @@ main:
 
   - title: "Service"
     url: "#service"
+
+  - title: "Academic"
+    url: "#academic-activities"
+
+  - title: "Activities"
+    url: "#extracurricular"
