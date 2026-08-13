@@ -12,7 +12,7 @@ Personal academic homepage for Zilong Huang, built with the [AcadHomepage](https
 - Name, bio, contact links, site URL: `_config.yml`
 - Top navigation: `_data/navigation.yml`
 - Custom visual styling: `assets/css/main.scss`
-- Monogram placeholder: `images/leon-monogram.svg`
+- Profile photo: `images/leon-huang.jpg`
 
 The Google Scholar field is intentionally commented out until a confirmed public profile URL is supplied. The newest ACM Multimedia workshop paper links to its confirmed DOI.
 
