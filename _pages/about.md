@@ -27,8 +27,8 @@ My research interests include:
 # 🔥 News
 
 <div class="news-lines">
-<p><strong>2026.08:</strong> 🎉🎉 “Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion” has been accepted by the <strong>4th International Workshop on Multimodal, Generative and Responsible Affective Computing at ACM Multimedia 2026</strong>! [[paper]](https://doi.org/10.1145/3840474.3840521)</p>
-<p><strong>2026.07:</strong> 🎉🎉 Two first-author papers, “EII-SCL” and “EmoEUS,” have been accepted by INTERSPEECH 2026! [[EII-SCL]](https://arxiv.org/abs/2607.17366) [[EmoEUS]](https://arxiv.org/abs/2607.18336)</p>
+<p><strong>2026.08:</strong> 🎉🎉 “Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion” has been accepted by the <strong>4th International Workshop on Multimodal, Generative and Responsible Affective Computing at ACM Multimedia 2026</strong>! [<a href="https://doi.org/10.1145/3840474.3840521">paper</a>]</p>
+<p><strong>2026.07:</strong> 🎉🎉 Two first-author papers, “EII-SCL” and “EmoEUS,” have been accepted by INTERSPEECH 2026! [<a href="https://arxiv.org/abs/2607.17366">EII-SCL</a>] [<a href="https://arxiv.org/abs/2607.18336">EmoEUS</a>]</p>
 <p><strong>2026.03:</strong> Started a visiting research attachment at Kyoto University’s Speech and Audio Processing Laboratory, supported by PolyU RSAP-Outgoing.</p>
 <p><strong>2026:</strong> Leading a five-institution team in the ACM Multimedia 2026 MER Challenge, Track 3: MER-Prefer.</p>
 <p><strong>2024.12:</strong> 🎉 Our team won <strong>2nd place</strong> in the NIST SRE 2024 Audio-Visual Track.</p>
