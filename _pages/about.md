@@ -27,10 +27,10 @@ My research interests include:
 # 🔥 News
 
 <div class="news-lines">
-<p><strong>2026.08:</strong> 🎉🎉 One paper has been accepted by the <strong>4th MRAC Workshop at ACM Multimedia 2026</strong>! [<a href="https://dl.acm.org/doi/pdf/10.1145/3840474.3840521">pdf</a>]</p>
-<p><strong>2026.07:</strong> 🎉 Our team won the <strong>sixth place</strong> in EmoPrefer Track of the <a href="https://zeroqiaoba.github.io/MER-Challenge/">MER2026 Challenge</a> (ACM Multimedia 2026).</p>
-<p><strong>2026.07:</strong> 🎉🎉 Three papers have been accepted by INTERSPEECH 2026! [<a href="https://arxiv.org/pdf/2607.17366">pdf</a>] [<a href="https://arxiv.org/pdf/2607.18336">pdf</a>]</p>
-<p><strong>2026.03:</strong> Started a visiting research attachment at Kyoto University’s Speech and Audio Processing Laboratory.</p>
+<p><strong>2026.08:</strong> 🎉 One paper has been accepted by the <strong>4th MRAC Workshop at ACM Multimedia 2026</strong>! [<a href="https://dl.acm.org/doi/pdf/10.1145/3840474.3840521">pdf</a>]</p>
+<p><strong>2026.07:</strong> 🎉 Our team won the <strong>sixth place</strong> in <a href="https://zeroqiaoba.github.io/MER-Challenge/">MER2026 Challenge</a> EmoPrefer Track (ACM Multimedia 2026).</p>
+<p><strong>2026.07:</strong> 🎉 Three papers have been accepted by INTERSPEECH 2026! [<a href="https://arxiv.org/pdf/2607.17366">pdf</a>] [<a href="https://arxiv.org/pdf/2607.18336">pdf</a>]</p>
+<p><strong>2026.03:</strong> 🎉 Started a <strong>visiting research attachment</strong>  at Kyoto University’s Speech and Audio Processing Laboratory.</p>
 <p><strong>2024.12:</strong> 🎉 Our team won <strong>2nd place</strong> in the NIST SRE 2024 Audio-Visual Track.</p>
 </div>
 
