@@ -3,9 +3,6 @@ main:
   - title: "About"
     url: "#about-me"
 
-  - title: "Research"
-    url: "#research"
-
   - title: "News"
     url: "#news"
 
@@ -14,6 +11,9 @@ main:
 
   - title: "Experience"
     url: "#experience"
+
+  - title: "Education"
+    url: "#education"
 
   - title: "Service"
     url: "#service"
