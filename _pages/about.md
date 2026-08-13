@@ -20,8 +20,6 @@ My research interests include:
 - Personality-aware Conversational Emotion Understanding
 - Preference Alignment
 
-[[Email](mailto:zi-long.huang@connect.polyu.hk)] &nbsp; [[GitHub](https://github.com/slash1028)] &nbsp; [[LinkedIn](https://www.linkedin.com/in/leonhuang1028/)]
-
 <span class="anchor" id="news"></span>
 
 # 🔥 News
