@@ -130,3 +130,13 @@ First-Class Honours
 - **Gold Award and Audience’s Choice Award**, National Landmarks CUS Postcard Design Competition 2025, January 2026.
 - **Volunteer**, The 15th National Games Hong Kong Zone Volunteer Program (「第十五屆全國運動會香港賽區」義工), July 2024 – February 2026.
 - **Classic Chinese Cuisine Course**, Shenzhen New Oriental Culinary School, January–March 2024.
+
+<span class="anchor" id="visitors"></span>
+
+# 🌍 Visitors
+
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="https://info.flagcounter.com/ZXfp" title="View visitor statistics">
+    <img src="https://s05.flagcounter.com/map/ZXfp/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Visitor map" border="0" loading="lazy" style="max-width: 100%; height: auto;">
+  </a>
+</div>
