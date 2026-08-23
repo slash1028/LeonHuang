@@ -42,7 +42,7 @@ My research interests include:
 # 📝 Publications
 
 <ul class="publication-list">
-<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://doi.org/10.1145/3840474.3840521"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara.<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></li>
+<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://doi.org/10.1145/3840474.3840521"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara. [<a href="https://dl.acm.org/doi/pdf/10.1145/3840474.3840521">paper</a>] [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>]<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></li>
 
 <li><span class="venue-tag">INTERSPEECH 2026</span> <a href="https://arxiv.org/abs/2607.17366"><strong>EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, C.-X. Gan, Z. Jin, R. Zuo, and M.-W. Mak.<br><span class="paper-note">Models speaker-specific emotional inertia through supervised contrastive learning to improve emotion-shift understanding.</span></li>
 
