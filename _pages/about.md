@@ -29,7 +29,7 @@ My research interests include:
 <p><strong>2026.07:</strong> 🎤 Tutorial speaker for <strong>Speech Large Language Models: Architectures, Efficient Adaptation, and Applications</strong> at ICME 2026.</p>
 <p><strong>2026.07:</strong> 🎉 Our team won the <strong>sixth place</strong> in <a href="https://zeroqiaoba.github.io/MER-Challenge/">MER2026 Challenge</a> EmoPrefer Track (ACM Multimedia 2026).</p>
 <p><strong>2026.07:</strong> 🎉 Three papers have been accepted by INTERSPEECH 2026! [<a href="https://arxiv.org/pdf/2607.17366">pdf</a>] [<a href="https://arxiv.org/pdf/2607.18336">pdf</a>]</p>
-<p><strong>2026.03:</strong> 🎉 Started a <strong>visiting research attachment</strong> at [<a href="https://sap.ist.i.kyoto-u.ac.jp/">Kyoto University’s Speech and Audio Processing Laboratory</a>].</p>
+<p><strong>2026.03:</strong> 🎉 Started a <strong>visiting research attachment</strong> at <a href="https://sap.ist.i.kyoto-u.ac.jp/">Kyoto University’s Speech and Audio Processing Laboratory</a>.</p>
 <p><strong>2026.01:</strong> 🎉 One paper has been accepted by ICASSP 2026! [<a href="https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=4633">paper</a>]</p>
 <p><strong>2025.05:</strong> 🎉 Two papers have been accepted by INTERSPEECH 2025! [<a href="https://www.isca-archive.org/interspeech_2025/zuo25b_interspeech.pdf">pdf</a>] [<a href="https://www.isca-archive.org/interspeech_2025/gan25_interspeech.pdf">pdf</a>]</p>
 <p><strong>2025.01:</strong> 🎉 One paper has been accepted by ICASSP 2025! [<a href="https://doi.org/10.1109/ICASSP49660.2025.10889980">paper</a>]</p>
@@ -126,10 +126,10 @@ First-Class Honours
 
 # 🌟 Extracurricular Activities
 
-- **Hall Tutor**, Homantin Student Hall, 1 April 2025 – 1 March 2026.
+- **Hall Tutor**, Homantin Student Hall (Red Hall), 1 April 2025 – 1 March 2026.
 - **Gold Award and Audience’s Choice Award**, National Landmarks CUS Postcard Design Competition 2025, January 2026.
 - **Volunteer**, The 15th National Games Hong Kong Zone Volunteer Program (「第十五屆全國運動會香港賽區」義工), July 2024 – February 2026.
-- **Classic Chinese Cuisine Course**, Shenzhen New Oriental Culinary School, January–March 2024.
+- **Classic Chinese Cuisine Course**, Shenzhen New Oriental Culinary School (深圳新东方烹饪学校), January–March 2024.
 
 <span class="anchor" id="visitors"></span>
 
