@@ -17,7 +17,6 @@ My research interests include:
 - Multimodal Large Language Models
 - Affective Computing
 - Emotion Recognition in Conversation
-- Personality-aware Conversational Emotion Understanding
 - Preference Alignment
 
 <span class="anchor" id="news"></span>
@@ -42,7 +41,7 @@ My research interests include:
 # 📝 Publications
 
 <ul class="publication-list">
-<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://arxiv.org/abs/2608.24730"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara. [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>]<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></li>
+<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://arxiv.org/abs/2608.24730"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara. [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>]<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion preference learning.</span></li>
 
 <li><span class="venue-tag">INTERSPEECH 2026</span> <a href="https://arxiv.org/abs/2607.17366"><strong>EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, C.-X. Gan, Z. Jin, R. Zuo, and M.-W. Mak.<br><span class="paper-note">Models speaker-specific emotional inertia through supervised contrastive learning to improve emotion-shift understanding.</span></li>
 
@@ -95,12 +94,15 @@ First-Class Honours
 **Reviewer:**
 
 - AAAI 2026, 2027
+- ISCSLP 2026
 - ICME 2026
 - ICASSP 2025, 2026 (**Outstanding Reviewer, ICASSP 2025**)
 - IJCNN 2025
 
 **Other service:**
 
+- Tutorial Speaker, “<a href="https://interspeech2026.org/en-AU/pages/programme/tutorials">Speech Large Language Models for Under-Resourced Languages</a>,” Interspeech 2026, Sydney, Australia.
+- Tutorial Speaker, “Speech Large Language Models: Architectures, Efficient Adaptation, and Applications,” ICME 2026, Bangkok, Thailand.
 - Invited Talk, “Emotion Recognition in Conversation,” NCMMSC Student Forum, Xinjiang, China, August 2024.
 - Teaching Assistant, “ENG2003 Information Technology,” Hong Kong SAR, China, September–November 2024.
 
