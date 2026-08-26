@@ -25,7 +25,7 @@ My research interests include:
 # 🔥 News
 
 <div class="news-lines">
-<p><strong>2026.08:</strong> 🎉 One paper has been accepted by the <strong>4th MRAC Workshop at ACM Multimedia 2026</strong>! [<a href="https://dl.acm.org/doi/pdf/10.1145/3840474.3840521">pdf</a>]</p>
+<p><strong>2026.08:</strong> 🎉 One paper has been accepted by the <strong>4th MRAC Workshop at ACM Multimedia 2026</strong>! [<a href="https://arxiv.org/abs/2608.24730">pdf</a>] [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>] </p>
 <p><strong>2026.07:</strong> 🎤 Tutorial speaker for <strong>Speech Large Language Models: Architectures, Efficient Adaptation, and Applications</strong> at ICME 2026.</p>
 <p><strong>2026.07:</strong> 🎉 Our team won the <strong>sixth place</strong> in <a href="https://zeroqiaoba.github.io/MER-Challenge/">MER2026 Challenge</a> EmoPrefer Track (ACM Multimedia 2026).</p>
 <p><strong>2026.07:</strong> 🎉 Three papers have been accepted by INTERSPEECH 2026! [<a href="https://arxiv.org/pdf/2607.17366">pdf</a>] [<a href="https://arxiv.org/pdf/2607.18336">pdf</a>]</p>
@@ -42,7 +42,7 @@ My research interests include:
 # 📝 Publications
 
 <ul class="publication-list">
-<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://doi.org/10.1145/3840474.3840521"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara. [<a href="https://dl.acm.org/doi/pdf/10.1145/3840474.3840521">paper</a>] [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>]<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></li>
+<li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://arxiv.org/abs/2608.24730"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara. [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>]<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion-description selection.</span></li>
 
 <li><span class="venue-tag">INTERSPEECH 2026</span> <a href="https://arxiv.org/abs/2607.17366"><strong>EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, C.-X. Gan, Z. Jin, R. Zuo, and M.-W. Mak.<br><span class="paper-note">Models speaker-specific emotional inertia through supervised contrastive learning to improve emotion-shift understanding.</span></li>
 
