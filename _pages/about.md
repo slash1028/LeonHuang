@@ -139,6 +139,6 @@ First-Class Honours
 
 <div style="text-align: center; margin: 1rem 0;">
   <a href="https://info.flagcounter.com/ZXfp" title="View visitor statistics">
-    <img src="https://s05.flagcounter.com/map/ZXfp/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Visitor map" border="0" loading="lazy" style="max-width: 100%; height: auto;">
+    <img src="https://s05.flagcounter.com/map/ZXfp/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Visitor map" border="0" style="max-width: 100%; height: auto;">
   </a>
 </div>
