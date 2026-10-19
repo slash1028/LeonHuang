@@ -25,8 +25,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zilong Huang"
   avatar           : "/images/leon-huang.jpg"
-  bio              : "🇯🇵 KyotoU Visiting PhD<br>🇭🇰 HKPolyU EIE PhD<br>🇭🇰 HKPolyU EIE Master"
-  location         : "Kyoto, Japan"
+  bio              : "🇭🇰 HKPolyU EIE PhD<br>🇯🇵 Former KyotoU Visiting PhD<br>🇭🇰 HKPolyU EIE Master"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=24_dNdcAAAAJ&hl=zh-TW"
