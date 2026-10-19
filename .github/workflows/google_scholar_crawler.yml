@@ -17,7 +17,7 @@ permissions:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 3
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -30,14 +30,16 @@ jobs:
           cache-dependency-path: google_scholar_crawler/requirements.txt
 
       - name: Fetch Google Scholar data
+        continue-on-error: true
         env:
           GOOGLE_SCHOLAR_ID: 24_dNdcAAAAJ
         run: |
           python -m pip install --upgrade pip
           pip install -r google_scholar_crawler/requirements.txt
-          python google_scholar_crawler/main.py
+          timeout 90s python google_scholar_crawler/main.py
 
       - name: Publish citation data
+        if: ${{ hashFiles('google_scholar_crawler/results/gs_data.json') != '' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
