@@ -10,7 +10,9 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-My name is **Zilong (Leon) Huang**. I am a Ph.D. student in the Department of Electrical and Electronic Engineering at **The Hong Kong Polytechnic University**, advised by [Prof. Kong Aik Lee](https://scholar.google.com/citations?hl=en&user=SZegiA4AAAAJ) and [Prof. Man-Wai Mak](https://scholar.google.com/citations?hl=en&user=Q2nNMycAAAAJ). I am currently a visiting researcher at [**Kyoto University’s Speech and Audio Processing Laboratory**](https://sap.ist.i.kyoto-u.ac.jp/), working with [Prof. Tatsuya Kawahara](https://scholar.google.com/citations?hl=en&user=o3AmlFYAAAAJ).
+My name is **Zilong (Leon) Huang**. I am a Ph.D. student in the Department of Electrical and Electronic Engineering at **The Hong Kong Polytechnic University**, advised by [Prof. Kong Aik Lee](https://scholar.google.com/citations?hl=en&user=SZegiA4AAAAJ) and [Prof. Man-Wai Mak](https://scholar.google.com/citations?hl=en&user=Q2nNMycAAAAJ). From March to September 2026, I was a visiting researcher at [**Kyoto University’s Speech and Audio Processing Laboratory**](https://sap.ist.i.kyoto-u.ac.jp/), where I worked with [Prof. Tatsuya Kawahara](https://scholar.google.com/citations?hl=en&user=o3AmlFYAAAAJ).
+
+Google Scholar citations: [**<span id="total_cit">—</span>**](https://scholar.google.com/citations?user=24_dNdcAAAAJ&hl=en) <span style="font-size: 0.85em; color: #777;">(updated daily)</span>
 
 My research interests include:
 
@@ -24,6 +26,8 @@ My research interests include:
 # 🔥 News
 
 <div class="news-lines">
+<p><strong>2026.10:</strong> 📄 “EmoGavel” is now available on arXiv! [<a href="https://arxiv.org/pdf/2610.13353">pdf</a>]</p>
+<p><strong>2026.09:</strong> 🎤 Attended <strong>INTERSPEECH 2026</strong> in Sydney, Australia, and gave a tutorial on speech large language models for under-resourced languages.</p>
 <p><strong>2026.08:</strong> 🎉 One paper has been accepted by the <strong>4th MRAC Workshop at ACM Multimedia 2026</strong>! [<a href="https://arxiv.org/abs/2608.24730">pdf</a>] [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>] </p>
 <p><strong>2026.07:</strong> 🎤 Tutorial speaker for <strong>Speech Large Language Models: Architectures, Efficient Adaptation, and Applications</strong> at ICME 2026.</p>
 <p><strong>2026.07:</strong> 🎉 Our team won the <strong>sixth place</strong> in <a href="https://zeroqiaoba.github.io/MER-Challenge/">MER2026 Challenge</a> EmoPrefer Track (ACM Multimedia 2026).</p>
@@ -41,6 +45,8 @@ My research interests include:
 # 📝 Publications
 
 <ul class="publication-list">
+<li><span class="venue-tag">arXiv 2026</span> <a href="https://arxiv.org/abs/2610.13353"><strong>EmoGavel: Grounding-Aware Reinforcement Learning with Verifiable Rewards for Multimodal Emotion Preference Learning</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, Z. Jin, M.-W. Mak, and T. Kawahara.<br><span class="paper-note">Grounding-aware reinforcement learning with verifiable rewards for preference prediction, error localization, repair, and missing-evidence recovery.</span></li>
+
 <li><span class="venue-tag">ACM MM 2026 Workshop</span> <a href="https://arxiv.org/abs/2608.24730"><strong>Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion</strong></a>, <strong>Zilong Huang</strong>, J. Peng, J. Li, K. Li, W. Ren, K.-A. Lee, M.-W. Mak, and T. Kawahara. [<a href="https://github.com/slash1028/EAPO-EmoPrefer">code</a>]<br><span class="paper-note">Error-augmented preference optimization with calibrated multi-model fusion for reliable emotion preference learning.</span></li>
 
 <li><span class="venue-tag">INTERSPEECH 2026</span> <a href="https://arxiv.org/abs/2607.17366"><strong>EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation</strong></a>, <strong>Zilong Huang</strong>, K.-A. Lee, C.-X. Gan, Z. Jin, R. Zuo, and M.-W. Mak.<br><span class="paper-note">Models speaker-specific emotional inertia through supervised contrastive learning to improve emotion-shift understanding.</span></li>
@@ -110,6 +116,7 @@ First-Class Honours
 
 # 🎓 Academic Activities
 
+- INTERSPEECH 2026, Sydney, Australia, September 2026 (**Tutorial Speaker**).
 - IEEE International Conference on Multimedia & Expo (ICME 2026), Thailand, July 2026 (**Tutorial Speaker**).
 - ICASSP 2025 Satellite Event, Suzhou, China, May 2025.
 - IEEE Spoken Language Technology Workshop (SLT 2024), Macao, China, December 2024.
