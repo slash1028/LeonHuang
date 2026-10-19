@@ -1,0 +1,51 @@
+name: Update Google Scholar citations
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/google_scholar_crawler.yml"
+      - "google_scholar_crawler/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update-citations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: google_scholar_crawler/requirements.txt
+
+      - name: Fetch Google Scholar data
+        env:
+          GOOGLE_SCHOLAR_ID: 24_dNdcAAAAJ
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r google_scholar_crawler/requirements.txt
+          python google_scholar_crawler/main.py
+
+      - name: Publish citation data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd google_scholar_crawler/results
+          git init
+          git checkout -b google-scholar-stats
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gs_data.json gs_data_shieldsio.json
+          git commit -m "Update Google Scholar citation data"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
