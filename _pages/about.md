@@ -12,7 +12,7 @@ redirect_from:
 
 My name is **Zilong (Leon) Huang**. I am a Ph.D. student in the Department of Electrical and Electronic Engineering at **The Hong Kong Polytechnic University**, advised by [Prof. Kong Aik Lee](https://scholar.google.com/citations?hl=en&user=SZegiA4AAAAJ) and [Prof. Man-Wai Mak](https://scholar.google.com/citations?hl=en&user=Q2nNMycAAAAJ). From March to September 2026, I was a visiting researcher at [**Kyoto University’s Speech and Audio Processing Laboratory**](https://sap.ist.i.kyoto-u.ac.jp/), where I worked with [Prof. Tatsuya Kawahara](https://scholar.google.com/citations?hl=en&user=o3AmlFYAAAAJ).
 
-Google Scholar citations: [**<span id="total_cit">—</span>**](https://scholar.google.com/citations?user=24_dNdcAAAAJ&hl=en) <span style="font-size: 0.85em; color: #777;">(updated daily)</span>
+Google Scholar citations: [**<span id="total_cit">—</span>**](https://scholar.google.com/citations?user=24_dNdcAAAAJ&hl=en) <span style="font-size: 0.85em; color: #777;">(daily updates require a public profile)</span>
 
 My research interests include:
 
